@@ -4,6 +4,8 @@ um miniguia de estudo com resumos estruturados, glossário de conceitos e um con
 # 🎯 OBJETIVO  
 O objetivo deste notebook é introduzir, de forma simples e prática, os principais conceitos necessários para quem deseja dar os primeiros passos na área de dados. Aqui, você aprenderá o que significa trabalhar com dados, quais são os tipos mais comuns, como manipulá‑los usando Python e Pandas, como criar visualizações básicas e como realizar pequenas análises exploratórias. Ao final, você terá uma base sólida para continuar sua jornada rumo à Engenharia de Dados, Ciência de Dados ou Análise de Dados.
 
+- [NotebookLM]- (https://notebooklm.google.com/notebook/9d02777d-c153-4ab1-abd8-abbb887fa1f8)
+
 ---
 
 # 📽️ FONTES DE VÍDEO  
