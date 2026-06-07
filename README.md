@@ -31,12 +31,4 @@ Materiais utilizados como referência para construção do conteúdo:
 - **[FM2S] Slides - Essencial Python Introdução à Análise.pdf**  
 - **[FM2S] Slides - SQL Essencial.pdf**
 
----
 
-Se quiser, posso também montar:
-
-✨ uma versão estilizada com badges,  
-✨ uma seção “Como executar este notebook”,  
-✨ ou um README completo com capa, índice e instruções.
-
-Quer deixar ele ainda mais profissional?
